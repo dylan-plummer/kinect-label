@@ -1,0 +1,14 @@
+/.idea
+/labeled
+/labeled_neg
+/neg_npy
+/pos_npy
+/unlabeled
+/unlabeled_neg
+/venv
+/opencv
+opencv_createsamples.exe
+opencv_ffmpeg340_64.dll
+opencv_traincascade.exe
+opencv_world340.dll
+opencv_world340d.dll
